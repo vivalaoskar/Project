@@ -2,7 +2,7 @@
 
 Since the terms of the project were to make any projects based on matrix, I came up with a brilliant idea to create a matrix effect, which includes a matrix. I have been a fan of the film of the Wachowski sisters since childhood. And this was even interesting for me:)
 
-__In order for the code to work, you need to create a folder where you can upload the font that I attached in the project, along itself__
+__In order for the code to work, you need to create a folder where you need to upload the font that I attached in the project, along with the code itself__
 
 ### Short explanation of the code
 
